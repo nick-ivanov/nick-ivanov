@@ -1,45 +1,80 @@
 ### 0xC Days of Winter Break
 
 On the first day of Winter Break my true love gave to me
+
 A node in a red-black tree.
 
+
 On the second day of Winter Break my true love gave to me:
+
 Two pushy stacks,
+
 And a node in a red-black tree.
+
 
 On the third day of Winter Break my true love gave to me:
+
 Three scheduled jobs,
+
 Two pushy stacks,
+
 And a node in a red-black tree.
+
 
 On the fourth day of Winter Break my true love gave to me:
+
 Four linked lists,
+
 Three scheduled jobs,
+
 Two pushy stacks,
+
 And a node in a red-black tree.
+
+
 
 On the fifth day of Winter Break my true love gave to me:
+
 Five big Ohs,
+
 Four linked lists,
+
 Three scheduled jobs,
+
 Two pushy stacks,
+
 And a node in a red-black tree.
+
 
 On the sixth day of Winter Break my true love gave to me:
+
 Six functions calling,
+
 Five big Ohs,
+
 Four linked lists,
+
 Three scheduled jobs,
+
 Two pushy stacks,
+
 And a node in a red-black tree.
 
+
 On the seventh day of Winter Break my true love gave to me:
+
 Seven doomed brute-forces,
+
 Six functions calling,
+
 Five big Ohs,
+
 Four linked lists,
+
 Three scheduled jobs,
+
 Two pushy stacks,
+
 And a node in a red-black tree.
 
 On the eighth day of Winter Break my true love gave to me:
