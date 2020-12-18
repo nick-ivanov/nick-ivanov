@@ -1,141 +1,28 @@
 ### 0xC Days of Winter Break
 
-On the first day of Winter Break my true love gave to me
+On the first day of Winter Break my true love gave to me a node in a red-black tree.
 
-A node in a red-black tree.
+On the second day of Winter Break my true love gave to me: two pushy stacks, and a node in a red-black tree.
 
+On the third day of Winter Break my true love gave to me: three scheduled jobs, two pushy stacks, and a node in a red-black tree.
 
-On the second day of Winter Break my true love gave to me:
+On the fourth day of Winter Break my true love gave to me: four linked lists, three scheduled jobs, two pushy stacks, and a node in a red-black tree.
 
-Two pushy stacks,
+On the fifth day of Winter Break my true love gave to me: five big Ohs, four linked lists, three scheduled jobs, two pushy stacks, and a node in a red-black tree.
 
-And a node in a red-black tree.
+On the sixth day of Winter Break my true love gave to me: six functions calling, five big Ohs, four linked lists, three scheduled jobs, two pushy stacks, and a node in a red-black tree.
 
+On the seventh day of Winter Break my true love gave to me: seven doomed brute-forces, six functions calling, five big Ohs, four linked lists, three scheduled jobs, two pushy stacks, and a node in a red-black tree.
 
-On the third day of Winter Break my true love gave to me:
+On the eighth day of Winter Break my true love gave to me: eight graphs traversing, seven doomed brute-forces, six functions calling, five big Ohs, four linked lists, three scheduled jobs, two pushy stacks, and a node in a red-black tree.
 
-Three scheduled jobs,
+On the ninth day of Winter Break my true love gave to me: nine salesmen trav'ling, eight graphs traversing, seven doomed brute-forces, six functions calling, five big Ohs, four linked lists, three scheduled jobs, two pushy stacks, and a node in a red-black tree.
 
-Two pushy stacks,
+On the tenth day of Winter Break my true love gave to me: ten loops repeating, nine salesmen trav'ling, eight graphs traversing, seven doomed brute-forces, six functions calling, five big Ohs, four linked lists, three scheduled jobs, two pushy stacks, and a node in a red-black tree.
 
-And a node in a red-black tree.
+On the eleventh day of Winter Break my true love gave to me: eleven pointers pointing, ten loops repeating, nine salesmen trav'ling, eight graphs traversing, seven doomed brute-forces, six functions calling, five big Ohs, four linked lists, three scheduled jobs, two pushy stacks, and a node in a red-black tree.
 
-
-On the fourth day of Winter Break my true love gave to me:
-
-Four linked lists,
-
-Three scheduled jobs,
-
-Two pushy stacks,
-
-And a node in a red-black tree.
-
-
-
-On the fifth day of Winter Break my true love gave to me:
-
-Five big Ohs,
-
-Four linked lists,
-
-Three scheduled jobs,
-
-Two pushy stacks,
-
-And a node in a red-black tree.
-
-
-On the sixth day of Winter Break my true love gave to me:
-
-Six functions calling,
-
-Five big Ohs,
-
-Four linked lists,
-
-Three scheduled jobs,
-
-Two pushy stacks,
-
-And a node in a red-black tree.
-
-
-On the seventh day of Winter Break my true love gave to me:
-
-Seven doomed brute-forces,
-
-Six functions calling,
-
-Five big Ohs,
-
-Four linked lists,
-
-Three scheduled jobs,
-
-Two pushy stacks,
-
-And a node in a red-black tree.
-
-On the eighth day of Winter Break my true love gave to me:
-Eight graphs traversing,
-Seven doomed brute-forces,
-Six functions calling,
-Five big Ohs,
-Four linked lists,
-Three scheduled jobs,
-Two pushy stacks,
-And a node in a red-black tree.
-
-On the ninth day of Winter Break my true love gave to me:
-Nine salesmen trav'ling,
-Eight graphs traversing,
-Seven doomed brute-forces,
-Six functions calling,
-Five big Ohs,
-Four linked lists,
-Three scheduled jobs,
-Two pushy stacks,
-And a node in a red-black tree.
-
-On the tenth day of Winter Break my true love gave to me:
-Ten loops repeating,
-Nine salesmen trav'ling,
-Eight graphs traversing,
-Seven doomed brute-forces,
-Six functions calling,
-Five big Ohs,
-Four linked lists,
-Three scheduled jobs,
-Two pushy stacks,
-And a node in a red-black tree.
-
-On the eleventh day of Winter Break my true love gave to me:
-Eleven pointers pointing,
-Ten loops repeating,
-Nine salesmen trav'ling,
-Eight graphs traversing,
-Seven doomed brute-forces,
-Six functions calling,
-Five big Ohs,
-Four linked lists,
-Three scheduled jobs,
-Two pushy stacks,
-And a node in a red-black tree.
-
-On the twelfth day of Winter Break my true love gave to me:
-Twelve queues enqueuing,
-Eleven pointers pointing,
-Ten loops repeating,
-Nine salesmen trav'ling,
-Eight graphs traversing,
-Seven doomed brute-forces,
-Six functions calling,
-Five big Ohs,
-Four linked lists,
-Three scheduled jobs,
-Two pushy stacks,
-And a node in a red-black tree.
+On the twelfth day of Winter Break my true love gave to me: twelve queues enqueuing, eleven pointers pointing, ten loops repeating, nine salesmen trav'ling, eight graphs traversing, seven doomed brute-forces, six functions calling, five big Ohs, four linked lists, three scheduled jobs, two pushy stacks, and a node in a red-black tree.
 
 Copyright (C) 2020 Nikolay "Nick" Ivanov <ivanovn1@msu.edu>
 CC BY-SA 2.0
