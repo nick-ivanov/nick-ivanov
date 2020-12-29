@@ -1,3 +1,4 @@
+<!--
 ### 0xC Days of Winter Break
 
 On the first day of Winter Break my true love gave to me a node in a red-black tree.
@@ -26,6 +27,7 @@ On the twelfth day of Winter Break my true love gave to me: twelve queues enqueu
 
 Copyright (C) 2020 Nikolay "Nick" Ivanov <ivanovn1@msu.edu>
 CC BY-SA 2.0
+-->
 
 <!--
 **nick-ivanov/nick-ivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,3 +43,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on cloud-blockchain integration
